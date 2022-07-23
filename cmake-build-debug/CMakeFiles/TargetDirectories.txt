@@ -1,0 +1,3 @@
+/Users/shawn/CLionProjects/CLangThreadTest/cmake-build-debug/CMakeFiles/CLangThreadTest.dir
+/Users/shawn/CLionProjects/CLangThreadTest/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/shawn/CLionProjects/CLangThreadTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
